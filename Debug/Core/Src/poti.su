@@ -1,0 +1,2 @@
+../Core/Src/poti.c:23:6:Poti_Init	8	static
+../Core/Src/poti.c:35:6:Poti_UpdateBrightness	16	static

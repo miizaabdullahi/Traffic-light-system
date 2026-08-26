@@ -1,0 +1,3 @@
+../Core/Src/display.c:37:13:DrawBar	32	static
+../Core/Src/display.c:84:6:Display_Init	8	static
+../Core/Src/display.c:91:6:Display_Update	48	static

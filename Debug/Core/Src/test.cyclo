@@ -1,0 +1,5 @@
+../Core/Src/test.c:27:6:test_sr	3
+../Core/Src/test.c:64:6:test_car_switch	6
+../Core/Src/test.c:101:6:test_ped_buttons	3
+../Core/Src/test.c:133:6:test_oled	3
+../Core/Src/test.c:170:6:test_potentiometer	7

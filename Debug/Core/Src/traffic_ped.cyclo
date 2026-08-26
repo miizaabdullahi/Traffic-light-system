@@ -1,0 +1,8 @@
+../Core/Src/traffic_ped.c:48:20:ButtonPressed	1
+../Core/Src/traffic_ped.c:55:6:TrafficPT_Init	1
+../Core/Src/traffic_ped.c:65:6:TrafficPT_RequestCarsRed	1
+../Core/Src/traffic_ped.c:70:6:TrafficPT_IsPedGreen	1
+../Core/Src/traffic_ped.c:75:9:TrafficPT_GetPedLedMask	1
+../Core/Src/traffic_ped.c:81:10:TrafficPT_GetRemainingPedDelay	3
+../Core/Src/traffic_ped.c:91:10:TrafficPT_GetRemainingWalkDelay	3
+../Core/Src/traffic_ped.c:102:6:TrafficPT_Update	9

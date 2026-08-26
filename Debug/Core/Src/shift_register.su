@@ -1,0 +1,3 @@
+../Core/Src/shift_register.c:9:13:SR_Latch	8	static
+../Core/Src/shift_register.c:15:6:SR_Init	8	static
+../Core/Src/shift_register.c:21:6:SR_Send	16	static

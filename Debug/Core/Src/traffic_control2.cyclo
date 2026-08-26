@@ -1,0 +1,8 @@
+../Core/Src/traffic_control2.c:49:13:CarVerticalActive	3
+../Core/Src/traffic_control2.c:56:13:CarHorizontalActive	3
+../Core/Src/traffic_control2.c:65:13:UpdateSRBuffer	11
+../Core/Src/traffic_control2.c:98:6:TrafficCtrl2_Init	2
+../Core/Src/traffic_control2.c:109:6:TrafficCtrl2_Update	33
+../Core/Src/traffic_control2.c:194:10:TrafficCtrl2_GetSRData	1
+../Core/Src/traffic_control2.c:202:10:TrafficCtrl2_GetRemainingGreenDelay	22
+../Core/Src/traffic_control2.c:246:10:TrafficCtrl2_GetRemainingRedDelay	8

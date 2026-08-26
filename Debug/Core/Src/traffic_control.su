@@ -1,0 +1,5 @@
+../Core/Src/traffic_control.c:38:6:TrafficCtrl_Init	4	static
+../Core/Src/traffic_control.c:46:6:TrafficCtrl_Update	16	static
+../Core/Src/traffic_control.c:109:10:TrafficCtrl_GetSRData	4	static
+../Core/Src/traffic_control.c:116:10:TrafficCtrl_GetRemainingRedDelay	16	static
+../Core/Src/traffic_control.c:125:10:TrafficCtrl_GetRemainingGreenDelay	16	static
